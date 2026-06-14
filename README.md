@@ -194,13 +194,15 @@ streamlit run app/streamlit_app.py
 ## 🚀 Run the Command Line Interface
 
 ```bash
-python run main.py
-
-
 Open:
 
 ```text
 http://localhost:8501
+```
+
+## 🚀 Run the Command Line Interface
+```bash
+Python main.py
 ```
 
 ---
