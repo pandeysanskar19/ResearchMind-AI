@@ -190,9 +190,6 @@ GEMINI_API_KEY=your_api_key_here
 ```bash
 streamlit run app/streamlit_app.py
 ```
-
-## 🚀 Run the Command Line Interface
-
 ```bash
 Open:
 
@@ -204,7 +201,6 @@ http://localhost:8501
 ```bash
 Python main.py
 ```
-
 ---
 
 ## 📸 Demo
