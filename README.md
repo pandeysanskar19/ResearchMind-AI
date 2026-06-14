@@ -155,9 +155,10 @@ git clone https://github.com/pandeysanskar19/ResearchMind-ai
 cd ResearchMind-ai
 ```
 
-Create virtual environment: .env.example
+Create virtual environment:
 
-```bash python -m venv venv
+```bash
+ python -m venv venv
 ```
 
 Activate environment:
