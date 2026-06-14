@@ -193,7 +193,6 @@ streamlit run app/streamlit_app.py
 ```bash
 Open:
 
-```text
 http://localhost:8501
 ```
 
